@@ -1,0 +1,77 @@
+body{
+    background-color: #7ee69a;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #331a00;
+    margin: auto;
+}
+
+.clr{
+    clear:both;
+}
+
+.bio{
+    border:5px #3d3d29 solid;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.intro {
+    background-color:goldenrod;
+}
+
+#overview {
+    border:5px #3d3d29 solid;
+    margin:20px 5px 10px 40px;
+    float:left;
+    width:70%;
+    box-sizing:border-box;
+}
+
+#overview p{
+    text-align: center;
+}
+
+#pic{
+    border:5px #fff solid;
+    float:right;
+    width:25%;
+    box-sizing:border-box;
+    margin:20px 5px 5px 10px 
+}
+
+.contents h3{
+    font-style:italic;
+    text-decoration:underline;
+}
+
+#skills ul{
+    margin:20px 0px;
+    padding-left:60px;
+    list-style: circle;
+}
+
+#recent{
+    border-top: 5px black solid;
+    border-bottom:5px black solid;
+    background-color: moccasin;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.jobs{
+    float:left;
+    width:33.3%;
+    border:1px #ccc solid;
+    padding:8px;
+    box-sizing: border-box;
+    margin-bottom:20px;
+
+}
+
+#certs{
+    background-color: maroon;
+    border-bottom:10px rgb(10, 10, 10) solid;
+    text-align:center;
+    color: whitesmoke
+}
